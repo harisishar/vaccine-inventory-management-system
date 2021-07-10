@@ -1,0 +1,20 @@
+1. Extract the file and copy "vaccine-inventory-management-system" folder
+
+2.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+
+3. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+4. Create a database with name vaccine_inventory
+
+5. Import vaccine_inventory.sql file(given inside the zip package in SQL file folder)
+
+6.Run the script http://localhost/vaccine-inventory-management-system
+
+
+**LOGIN DETAILS** 
+
+username: admin
+password: admin
+
+
+HHh
